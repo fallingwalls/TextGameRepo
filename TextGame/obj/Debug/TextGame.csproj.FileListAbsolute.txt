@@ -1,0 +1,6 @@
+E:\TextGame\TextGame\TextGame\bin\Debug\TextGame.exe.config
+E:\TextGame\TextGame\TextGame\obj\Debug\TextGame.csprojResolveAssemblyReference.cache
+E:\TextGame\TextGame\TextGame\bin\Debug\TextGame.exe
+E:\TextGame\TextGame\TextGame\bin\Debug\TextGame.pdb
+E:\TextGame\TextGame\TextGame\obj\Debug\TextGame.exe
+E:\TextGame\TextGame\TextGame\obj\Debug\TextGame.pdb
