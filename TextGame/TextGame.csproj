@@ -43,10 +43,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Areas\IArea.cs" />
+    <Compile Include="Constants.cs" />
+    <Compile Include="ExceptionsAndEventArgs\MenuCaseEventArgs.cs" />
     <Compile Include="Inventory.cs" />
     <Compile Include="Items\Card.cs" />
     <Compile Include="Items\IItem.cs" />
-    <Compile Include="Parser.cs" />
+    <Compile Include="Parsing\Parser.cs" />
+    <Compile Include="Parsing\ParseResponse.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Session.cs" />

@@ -5,6 +5,7 @@ using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 using TextGame;
+using TextGame.Parsing;
 using TextGame.Speech;
 using TextGame.Speech.TextGame.Speech;
 
