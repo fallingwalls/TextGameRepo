@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace TextGame.Speech
 {
-    public enum Items
+    interface ISpeech
     {
-        Card
+        string GetSpeechFromInputString(string input);
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\tvokac\Documents\GitHub\TextGameRepo\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Users\tvokac\Documents\GitHub\TextGameRepo\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\tvokac\Documents\GitHub\TextGameRepo\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\tvokac\Documents\GitHub\TextGameRepo\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\tvokac\Documents\GitHub\TextGameRepo\TestApplication\bin\Debug\TextGame.exe
+C:\Users\tvokac\Documents\GitHub\TextGameRepo\TestApplication\bin\Debug\TextGame.pdb
+C:\Users\tvokac\Documents\GitHub\TextGameRepo\TestApplication\obj\Debug\TestApplication.exe
+C:\Users\tvokac\Documents\GitHub\TextGameRepo\TestApplication\obj\Debug\TestApplication.pdb

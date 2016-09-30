@@ -4,3 +4,9 @@ E:\TextGame\TextGame\TextGame\bin\Debug\TextGame.exe
 E:\TextGame\TextGame\TextGame\bin\Debug\TextGame.pdb
 E:\TextGame\TextGame\TextGame\obj\Debug\TextGame.exe
 E:\TextGame\TextGame\TextGame\obj\Debug\TextGame.pdb
+C:\Users\tvokac\Documents\GitHub\TextGameRepo\TextGame\bin\Debug\TextGame.exe.config
+C:\Users\tvokac\Documents\GitHub\TextGameRepo\TextGame\obj\Debug\TextGame.exe
+C:\Users\tvokac\Documents\GitHub\TextGameRepo\TextGame\obj\Debug\TextGame.pdb
+C:\Users\tvokac\Documents\GitHub\TextGameRepo\TextGame\bin\Debug\TextGame.exe
+C:\Users\tvokac\Documents\GitHub\TextGameRepo\TextGame\bin\Debug\TextGame.pdb
+C:\Users\tvokac\Documents\GitHub\TextGameRepo\TextGame\obj\Debug\TextGame.csprojResolveAssemblyReference.cache

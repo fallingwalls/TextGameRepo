@@ -1,0 +1,3 @@
+C:\Users\tvokac\Documents\GitHub\TextGameRepo\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\tvokac\Documents\GitHub\TextGameRepo\ConsoleApplication1\obj\Debug\TestApp.vbproj.GenerateResource.Cache
+C:\Users\tvokac\Documents\GitHub\TextGameRepo\ConsoleApplication1\obj\Debug\TestApp.vbprojResolveAssemblyReference.cache
